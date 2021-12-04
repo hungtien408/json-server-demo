@@ -32,7 +32,7 @@ https://github.com/typicode/json-server
 
 # Install random data
 
-npm i --save-dev faker
+npm i faker
 
 # Install query string
 
